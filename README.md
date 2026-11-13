@@ -30,9 +30,3 @@ Marceline visits the Ice King, and they spend time together. We learn that befor
 
 - Series name: `Adventure Time`
 - Episode name: `I Remember You`
-
----
-
-## Learn more
-
-Read more about the show on [Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time).
