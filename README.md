@@ -2,8 +2,6 @@
 
 **Adventure Time** is a Cartoon Network series about *Finn* and *Jake*, best friends who go on adventures in the Land of Ooo.
 
-![Adventure Time](adventure-time.jpg)
-
 ---
 
 ## Wholesome Episode: "I Remember You"
